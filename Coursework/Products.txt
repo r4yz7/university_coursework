@@ -1,0 +1,7 @@
+Carrot 10 15 1
+Cucumber 7 10 20
+Apple 5 8 19
+Potato 3 7 128
+Cherry 1 2 100
+Grape 4 10 10
+Watermelon 50 70 10
